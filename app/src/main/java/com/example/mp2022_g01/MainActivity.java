@@ -1,4 +1,5 @@
-package com.example.login;
+package com.example.mp2022_g01;
+
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -20,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.layout.activity_main);
+        setContentView(R.layout.activity_main);
 
         Name = (EditText) findViewById(R.id.etName);
         Password = (EditText) findViewById(R.id.etPassword);
