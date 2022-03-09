@@ -50,14 +50,15 @@
 
     <ImageView
         android:id="@+id/imageView2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="281dp"
+        android:layout_height="274dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.482"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.151"
-        app:srcCompat="@mipmap/tranquillogoround" />
+        app:layout_constraintVertical_bias="0.119"
+        app:srcCompat="@drawable/tranquillogoround" />
 
     <TextView
         android:id="@+id/tvInfo"
