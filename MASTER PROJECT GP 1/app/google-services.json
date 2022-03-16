@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1020958699574",
+    "project_id": "tranquil-trip-mp",
+    "storage_bucket": "tranquil-trip-mp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020958699574:android:caa73a9c38a4b5b9856897",
+        "android_client_info": {
+          "package_name": "com.example.tranquiltrip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020958699574-166fls87j9uefrv3hn3tpidkhl6q5lcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMljn2sPr2LCbMnMeklgw2Idaw23Rw_gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020958699574-166fls87j9uefrv3hn3tpidkhl6q5lcn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
