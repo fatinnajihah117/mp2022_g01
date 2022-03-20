@@ -1,0 +1,26 @@
+com/example/mp2022_g01/BuildConfig.java
+ com.example.mp2022_g01.BuildConfig
+com/example/mp2022_g01/SplashScreen.java
+ com.example.mp2022_g01.SplashScreen
+ com.example.mp2022_g01.SplashScreen$1
+ com.example.mp2022_g01.SplashScreen$1$1
+ com.example.mp2022_g01.SplashScreen$2
+com/example/mp2022_g01/SecondActivity.java
+ com.example.mp2022_g01.SecondActivity
+com/example/mp2022_g01/MainActivity.java
+ com.example.mp2022_g01.MainActivity
+ com.example.mp2022_g01.MainActivity$1
+ com.example.mp2022_g01.MainActivity$2
+ com.example.mp2022_g01.MainActivity$3
+com/example/mp2022_g01/SplashScreen2.java
+ com.example.mp2022_g01.SplashScreen2
+ com.example.mp2022_g01.SplashScreen2$1
+com/example/mp2022_g01/RegistrationActivity.java
+ com.example.mp2022_g01.RegistrationActivity
+ com.example.mp2022_g01.RegistrationActivity$1
+ com.example.mp2022_g01.RegistrationActivity$1$1
+ com.example.mp2022_g01.RegistrationActivity$2
+com/example/mp2022_g01/ForgotPassword.java
+ com.example.mp2022_g01.ForgotPassword
+ com.example.mp2022_g01.ForgotPassword$1
+ com.example.mp2022_g01.ForgotPassword$1$1
