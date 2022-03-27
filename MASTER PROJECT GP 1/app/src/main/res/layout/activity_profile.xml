@@ -8,7 +8,7 @@
     tools:context=".ProfileActivity">
 
     <ImageView
-        android:id="@+id/ivProfilePic"
+        android:id="@+id/registretion"
         android:layout_width="231dp"
         android:layout_height="242dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -28,7 +28,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/ivProfilePic"
+        app:layout_constraintTop_toBottomOf="@+id/registretion"
         app:layout_constraintVertical_bias="0.102" />
 
     <TextView
