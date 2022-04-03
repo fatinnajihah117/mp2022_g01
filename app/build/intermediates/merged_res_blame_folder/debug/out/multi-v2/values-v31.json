@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v31\\values-v31.xml",
+            "outputFile": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v31\\values-v31.xml",
             "map": [
                 {
                     "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\47f84bc0f14ff0f8b692f7af2e9e9e3d\\transformed\\material-1.5.0\\res\\values-v31\\values-v31.xml",

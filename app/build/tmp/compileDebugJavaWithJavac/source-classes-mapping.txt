@@ -1,7 +1,3 @@
-com/example/tranquiltrip/BuildConfig.java
- com.example.tranquiltrip.BuildConfig
-com/example/tranquiltrip/UserProfile.java
- com.example.tranquiltrip.UserProfile
 com/example/tranquiltrip/ContactUsActivity.java
  com.example.tranquiltrip.ContactUsActivity
 com/example/tranquiltrip/RegistrationActivity.java
@@ -17,6 +13,8 @@ com/example/tranquiltrip/roomtype.java
  com.example.tranquiltrip.roomtype
 com/example/tranquiltrip/Booking.java
  com.example.tranquiltrip.Booking
+com/example/tranquiltrip/UserProfile.java
+ com.example.tranquiltrip.UserProfile
 com/example/tranquiltrip/ChangePassword.java
  com.example.tranquiltrip.ChangePassword
  com.example.tranquiltrip.ChangePassword$1
@@ -42,6 +40,8 @@ com/example/tranquiltrip/SplashScreen.java
  com.example.tranquiltrip.SplashScreen$1
  com.example.tranquiltrip.SplashScreen$1$1
  com.example.tranquiltrip.SplashScreen$2
+com/example/tranquiltrip/BuildConfig.java
+ com.example.tranquiltrip.BuildConfig
 com/example/tranquiltrip/ProfileActivity.java
  com.example.tranquiltrip.ProfileActivity
  com.example.tranquiltrip.ProfileActivity$1

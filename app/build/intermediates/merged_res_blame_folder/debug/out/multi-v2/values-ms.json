@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ms\\values-ms.xml",
+            "outputFile": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ms\\values-ms.xml",
             "map": [
                 {
                     "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\d98319f7b7726cf12a32e24850696daa\\transformed\\jetified-play-services-base-18.0.1\\res\\values-ms\\values.xml",
