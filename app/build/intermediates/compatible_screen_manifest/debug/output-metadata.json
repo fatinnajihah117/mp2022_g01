@@ -4,7 +4,7 @@
     "type": "COMPATIBLE_SCREEN_MANIFEST",
     "kind": "Directory"
   },
-  "applicationId": "com.example.mp2022_g01",
+  "applicationId": "com.example.tranquiltrip",
   "variantName": "debug",
   "elements": []
 }

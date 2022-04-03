@@ -1,166 +1,262 @@
 [
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash_screen.xml.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\font_monsterratregular.otf.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\font\\monsterratregular.otf"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\drawable_welcomesign.png.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\drawable\\welcomesign.png"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_tranquillogo.png.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\mipmap-anydpi-v26\\tranquillogo.png"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_tranquillogoround.png.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\mipmap-xxhdpi\\tranquillogoround.png"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\drawable_bookingicon.png.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\drawable\\bookingicon.png"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\drawable_roompic.png.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\drawable\\roompic.png"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\font_monsterratmedium.otf.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\font\\monsterratmedium.otf"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_booking.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\layout\\activity_booking.xml"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\font_momcakebold.otf.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\font\\momcakebold.otf"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_tranquillogo.png.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\mipmap-xhdpi\\tranquillogo.png"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\font_newfont.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\font\\newfont.xml"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_tranquillogo.png.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\mipmap-hdpi\\tranquillogo.png"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\font_monsterratsemibold.otf.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\font\\monsterratsemibold.otf"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_second.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\layout\\activity_second.xml"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\drawable_tranquillogo.png.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\drawable\\tranquillogo.png"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_tranquillogo.png.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\mipmap-mdpi\\tranquillogo.png"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_tranquillogoround.png.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\mipmap-xhdpi\\tranquillogoround.png"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_tranquillogo.png.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\mipmap-xxxhdpi\\tranquillogo.png"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_registration.xml.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\layout\\activity_registration.xml"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_forgot_password.xml.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\layout\\activity_forgot_password.xml"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\font_monsterratlight.otf.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\font\\monsterratlight.otf"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\drawable_tranquillogoround.png.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\drawable\\tranquillogoround.png"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_tranquillogo.png.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\mipmap-xhdpi\\tranquillogo.png"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_tranquillogoround.png.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\mipmap-xhdpi\\tranquillogoround.png"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_update_profile.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\layout\\activity_update_profile.xml"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_tranquillogo.png.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\mipmap-xxhdpi\\tranquillogo.png"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_tranquillogoround.png.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\mipmap-mdpi\\tranquillogoround.png"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_tranquillogoround.png.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\mipmap-mdpi\\tranquillogoround.png"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_tranquillogo.png.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\mipmap-anydpi-v26\\tranquillogo.png"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\font_monsterratbold.ttf.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\font\\monsterratbold.ttf"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\drawable_invoiceicon.png.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\drawable\\invoiceicon.png"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_tranquillogoround.png.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\mipmap-anydpi-v26\\tranquillogoround.png"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\drawable_tranquillogoround.png.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\drawable\\tranquillogoround.png"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_second.xml.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\layout\\activity_second.xml"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_roomtype.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\layout\\activity_roomtype.xml"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_change_password.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\layout\\activity_change_password.xml"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash_screen2.xml.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\layout\\activity_splash_screen2.xml"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_tranquillogo.png.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\mipmap-xxhdpi\\tranquillogo.png"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\layout\\activity_profile.xml"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\layout\\activity_login.xml"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_tranquillogoround.png.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\mipmap-xxxhdpi\\tranquillogoround.png"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\font_momcakethin.otf.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\font\\momcakethin.otf"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_tranquillogo.png.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\mipmap-mdpi\\tranquillogo.png"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\drawable_profileicon.png.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\drawable\\profileicon.png"
     },
     {
-        "merged": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_tranquillogoround.png.flat",
-        "source": "C:\\Users\\user\\OneDrive\\Documents\\Mobile Pro\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\mipmap-hdpi\\tranquillogoround.png"
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\drawable_tranquillogo.png.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\drawable\\tranquillogo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_tranquillogoround.png.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\mipmap-anydpi-v26\\tranquillogoround.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_invoice.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\layout\\activity_invoice.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_tranquillogoround.png.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\mipmap-hdpi\\tranquillogoround.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash_screen2.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\layout\\activity_splash_screen2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_tranquillogo.png.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\mipmap-xxxhdpi\\tranquillogo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\drawable_contactus.png.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\drawable\\contactus.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_registration.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_forgot_password.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_tranquillogoround.png.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\mipmap-xxxhdpi\\tranquillogoround.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\drawable_aboutus.png.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\drawable\\aboutus.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_tranquillogoround.png.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\mipmap-xxhdpi\\tranquillogoround.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\menu_menu.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_tranquillogo.png.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\mipmap-hdpi\\tranquillogo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\drawable_bedicon.png.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\drawable\\bedicon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\drawable_relaxhotell.png.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\drawable\\relaxhotell.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_contact_us.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\MASTER PROJECT GP 1\\app\\src\\main\\res\\layout\\activity_contact_us.xml"
     }
 ]

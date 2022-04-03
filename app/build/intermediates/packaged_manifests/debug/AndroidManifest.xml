@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.mp2022_g01"
+    package="com.example.tranquiltrip"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -8,14 +8,18 @@
         android:minSdkVersion="19"
         android:targetSdkVersion="32" />
 
-    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+    <!-- <uses-sdk android:minSdkVersion="14"/> -->
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.WAKE_LOCK" />
     <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- Include required permissions for Advertising Id -->
     <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
 
     <application
-        android:name="androidx.multidex.MultiDexApplication"
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
@@ -24,18 +28,39 @@
         android:roundIcon="@mipmap/tranquillogoround"
         android:supportsRtl="true"
         android:testOnly="true"
-        android:theme="@style/Theme.Mp2022_g01" >
+        android:theme="@style/Theme.TranquilTrip" >
         <activity
-            android:name="com.example.mp2022_g01.ForgotPassword"
+            android:name="com.example.tranquiltrip.ContactUsActivity"
             android:exported="false" />
         <activity
-            android:name="com.example.mp2022_g01.RegistrationActivity"
+            android:name="com.example.tranquiltrip.InvoiceActivity"
             android:exported="false" />
         <activity
-            android:name="com.example.mp2022_g01.SecondActivity"
+            android:name="com.example.tranquiltrip.Booking"
             android:exported="false" />
         <activity
-            android:name="com.example.mp2022_g01.SplashScreen"
+            android:name="com.example.tranquiltrip.roomtype"
+            android:exported="false" />
+        <activity
+            android:name="com.example.tranquiltrip.ChangePassword"
+            android:exported="false" />
+        <activity
+            android:name="com.example.tranquiltrip.UpdateProfile"
+            android:exported="false" />
+        <activity
+            android:name="com.example.tranquiltrip.ProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.tranquiltrip.ForgotPassword"
+            android:exported="false" />
+        <activity
+            android:name="com.example.tranquiltrip.SecondActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.tranquiltrip.RegistrationActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.tranquiltrip.SplashScreen"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -44,11 +69,39 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.mp2022_g01.SplashScreen2"
-            android:exported="true" />
+            android:name="com.example.tranquiltrip.SplashScreen2"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
         <activity
-            android:name="com.example.mp2022_g01.MainActivity"
+            android:name="com.example.tranquiltrip.MainActivity"
             android:exported="true" />
+
+        <service
+            android:name="com.google.firebase.components.ComponentDiscoveryService"
+            android:directBootAware="true"
+            android:exported="false" >
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+        </service>
+
         <activity
             android:name="com.google.firebase.auth.internal.GenericIdpActivity"
             android:excludeFromRecents="true"
@@ -86,37 +139,13 @@
             </intent-filter>
         </activity>
 
-        <service
-            android:name="com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService"
-            android:enabled="true"
-            android:exported="false" >
-            <intent-filter>
-                <action android:name="com.google.firebase.auth.api.gms.service.START" />
-
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </service>
-        <service
-            android:name="com.google.firebase.components.ComponentDiscoveryService"
-            android:directBootAware="true"
-            android:exported="false" >
-            <meta-data
-                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
-                android:value="com.google.firebase.components.ComponentRegistrar" />
-            <meta-data
-                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
-                android:value="com.google.firebase.components.ComponentRegistrar" />
-            <meta-data
-                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
-                android:value="com.google.firebase.components.ComponentRegistrar" />
-            <meta-data
-                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
-                android:value="com.google.firebase.components.ComponentRegistrar" />
-        </service>
-
+        <provider
+            android:name="com.squareup.picasso.PicassoProvider"
+            android:authorities="com.example.tranquiltrip.com.squareup.picasso"
+            android:exported="false" />
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
-            android:authorities="com.example.mp2022_g01.firebaseinitprovider"
+            android:authorities="com.example.tranquiltrip.firebaseinitprovider"
             android:directBootAware="true"
             android:exported="false"
             android:initOrder="100" />
@@ -148,7 +177,7 @@
 
         <provider
             android:name="androidx.startup.InitializationProvider"
-            android:authorities="com.example.mp2022_g01.androidx-startup"
+            android:authorities="com.example.tranquiltrip.androidx-startup"
             android:exported="false" >
             <meta-data
                 android:name="androidx.emoji2.text.EmojiCompatInitializer"

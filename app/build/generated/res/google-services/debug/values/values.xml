@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="default_web_client_id" translatable="false">774940081577-50c5m8cuf28ch3r36v1n3157k1muq54m.apps.googleusercontent.com</string>
-    <string name="gcm_defaultSenderId" translatable="false">774940081577</string>
-    <string name="google_api_key" translatable="false">AIzaSyBdWFygC35lt4gzQLOb4VxzM-uv6JdRhro</string>
-    <string name="google_app_id" translatable="false">1:774940081577:android:1a7dbc5baf75a82d5c18b8</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBdWFygC35lt4gzQLOb4VxzM-uv6JdRhro</string>
-    <string name="google_storage_bucket" translatable="false">tranquiltrip-booking-app.appspot.com</string>
-    <string name="project_id" translatable="false">tranquiltrip-booking-app</string>
+    <string name="default_web_client_id" translatable="false">1020958699574-166fls87j9uefrv3hn3tpidkhl6q5lcn.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1020958699574</string>
+    <string name="google_api_key" translatable="false">AIzaSyAMljn2sPr2LCbMnMeklgw2Idaw23Rw_gs</string>
+    <string name="google_app_id" translatable="false">1:1020958699574:android:caa73a9c38a4b5b9856897</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAMljn2sPr2LCbMnMeklgw2Idaw23Rw_gs</string>
+    <string name="google_storage_bucket" translatable="false">tranquil-trip-mp.appspot.com</string>
+    <string name="project_id" translatable="false">tranquil-trip-mp</string>
 </resources>
