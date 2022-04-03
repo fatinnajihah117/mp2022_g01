@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android">
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        android:font="@font/monsterratsemibold" />
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        android:font="@font/monsterratregular" />
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        android:font="@font/monsterratmedium" />
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        android:font="@font/monsterratlight" />
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        android:font="@font/monsterratbold" />
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        android:font="@font/momcakethin" />
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        android:font="@font/momcakebold" />
+
+</font-family>

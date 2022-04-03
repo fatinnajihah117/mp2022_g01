@@ -11,6 +11,7 @@
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:fontFamily="@font/momcakebold"
         android:text="Welcome"
         android:textSize="48sp"
         android:textStyle="bold"
@@ -25,6 +26,7 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:fontFamily="@font/momcakebold"
         android:text="To"
         android:textSize="34sp"
         android:textStyle="bold"
@@ -37,16 +39,18 @@
 
     <TextView
         android:id="@+id/textView3"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="268dp"
+        android:layout_height="52dp"
+        android:fontFamily="@font/momcakebold"
         android:text="Tranquil Trip"
         android:textSize="48sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.531"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView"
-        app:layout_constraintVertical_bias="0.12" />
+        app:layout_constraintVertical_bias="0.058" />
 
     <ImageView
         android:id="@+id/imageView"
