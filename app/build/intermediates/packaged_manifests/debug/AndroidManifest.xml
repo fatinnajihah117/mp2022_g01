@@ -28,7 +28,8 @@
         android:roundIcon="@mipmap/tranquillogoround"
         android:supportsRtl="true"
         android:testOnly="true"
-        android:theme="@style/Theme.TranquilTrip" >
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+>
         <activity
             android:name="com.example.tranquiltrip.ContactUsActivity"
             android:exported="false" />

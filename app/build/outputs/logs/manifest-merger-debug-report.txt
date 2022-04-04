@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:2:1-68:12
-INJECTED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:2:1-68:12
-INJECTED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:2:1-68:12
-INJECTED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:2:1-68:12
+ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:2:1-69:12
 MERGED from [com.google.android.material:material:1.5.0] C:\Users\User\.gradle\caches\transforms-3\47f84bc0f14ff0f8b692f7af2e9e9e3d\transformed\material-1.5.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\User\.gradle\caches\transforms-3\15de8030b03dca390ad149b4b2bf215c\transformed\constraintlayout-2.1.3\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\User\.gradle\caches\transforms-3\daec56630d897aa40e0fc6356687505b\transformed\appcompat-1.4.1\AndroidManifest.xml:17:1-24:12
@@ -75,20 +75,20 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\User\.gradle\cac
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\User\.gradle\caches\transforms-3\b22fc9a73cccfaf8b4129045c998d860\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\User\.gradle\caches\transforms-3\3a5a5d9934e2c57dd8d5c8a079d2e2b4\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\User\.gradle\caches\transforms-3\d66993e727816c8ff7896b7937150dab\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:2:1-68:12
-INJECTED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:2:1-68:12
-INJECTED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:2:1-69:12
 	package
 		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:3:5-39
 		INJECTED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:2:1-68:12
+		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:2:1-69:12
 		INJECTED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:2:1-68:12
+		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:2:1-69:12
 		INJECTED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:2:11-69
@@ -101,7 +101,7 @@ ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\mai
 	android:name
 		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:6:22-78
 application
-ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:8:5-66:19
+ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:8:5-67:19
 MERGED from [com.google.android.material:material:1.5.0] C:\Users\User\.gradle\caches\transforms-3\47f84bc0f14ff0f8b692f7af2e9e9e3d\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.5.0] C:\Users\User\.gradle\caches\transforms-3\47f84bc0f14ff0f8b692f7af2e9e9e3d\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\User\.gradle\caches\transforms-3\15de8030b03dca390ad149b4b2bf215c\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
@@ -171,95 +171,95 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\User\.gradle\cache
 	android:allowBackup
 		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:14:9-50
+		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:15:9-65
 activity#com.example.tranquiltrip.ContactUsActivity
-ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:15:9-17:40
+ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:16:9-18:40
 	android:exported
-		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:17:13-37
+		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:18:13-37
 	android:name
-		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:16:13-46
+		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:17:13-46
 activity#com.example.tranquiltrip.InvoiceActivity
-ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:18:9-20:40
+ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:19:9-21:40
 	android:exported
-		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:20:13-37
+		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:21:13-37
 	android:name
-		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:19:13-44
+		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:20:13-44
 activity#com.example.tranquiltrip.Booking
-ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:21:9-23:40
+ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:22:9-24:40
 	android:exported
-		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:23:13-37
+		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:24:13-37
 	android:name
-		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:22:13-36
+		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:23:13-36
 activity#com.example.tranquiltrip.roomtype
-ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:24:9-26:40
+ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:25:9-27:40
 	android:exported
+		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:27:13-37
+	android:name
 		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:26:13-37
-	android:name
-		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:25:13-37
 activity#com.example.tranquiltrip.ChangePassword
-ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:27:9-29:40
+ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:28:9-30:40
 	android:exported
-		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:29:13-37
+		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:30:13-37
 	android:name
-		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:28:13-43
+		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:29:13-43
 activity#com.example.tranquiltrip.UpdateProfile
-ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:30:9-32:40
+ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:31:9-33:40
 	android:exported
-		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:32:13-37
+		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:33:13-37
 	android:name
-		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:31:13-42
+		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:32:13-42
 activity#com.example.tranquiltrip.ProfileActivity
-ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:33:9-35:40
+ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:34:9-36:40
 	android:exported
-		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:35:13-37
+		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:36:13-37
 	android:name
-		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:34:13-44
+		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:35:13-44
 activity#com.example.tranquiltrip.ForgotPassword
-ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:36:9-38:40
+ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:37:9-39:40
 	android:exported
-		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:38:13-37
+		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:39:13-37
 	android:name
-		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:37:13-43
+		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:38:13-43
 activity#com.example.tranquiltrip.SecondActivity
-ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:39:9-41:40
+ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:40:9-42:40
 	android:exported
-		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:41:13-37
+		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:42:13-37
 	android:name
-		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:40:13-43
+		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:41:13-43
 activity#com.example.tranquiltrip.RegistrationActivity
-ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:42:9-44:40
+ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:43:9-45:40
 	android:exported
-		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:44:13-37
+		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:45:13-37
 	android:name
-		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:43:13-49
+		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:44:13-49
 activity#com.example.tranquiltrip.SplashScreen
-ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:45:9-53:20
+ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:46:9-54:20
 	android:exported
-		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:47:13-36
+		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:48:13-36
 	android:name
-		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:46:13-41
+		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:47:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:48:13-52:29
+ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:49:13-53:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:49:17-69
+ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:50:17-69
 	android:name
-		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:49:25-66
+		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:50:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:51:17-77
+ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:52:17-77
 	android:name
-		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:51:27-74
+		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:52:27-74
 activity#com.example.tranquiltrip.SplashScreen2
-ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:54:9-62:20
+ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:55:9-63:20
 	android:exported
-		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:56:13-36
+		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:57:13-36
 	android:name
-		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:55:13-42
+		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:56:13-42
 activity#com.example.tranquiltrip.MainActivity
-ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:63:9-65:39
+ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:64:9-66:39
 	android:exported
-		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:65:13-36
+		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:66:13-36
 	android:name
-		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:64:13-41
+		ADDED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:65:13-41
 uses-sdk
 INJECTED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml
