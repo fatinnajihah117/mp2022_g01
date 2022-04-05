@@ -519,8 +519,10 @@ int attr fontWeight 0x7f0301c5
 int attr forceApplySystemWindowInsetTop 0x7f0301c6
 int attr foregroundInsidePadding 0x7f0301c7
 int attr framePosition 0x7f0301c8
+int attr freezesAnimation 0x7f03044f
 int attr gapBetweenBars 0x7f0301c9
 int attr gestureInsetBottomIgnored 0x7f0301ca
+int attr gifSource 0x7f030450
 int attr goIcon 0x7f0301cb
 int attr guidelineUseRtl 0x7f0301cc
 int attr haloColor 0x7f0301cd
@@ -574,6 +576,7 @@ int attr insetForeground 0x7f0301fc
 int attr isLightTheme 0x7f0301fd
 int attr isMaterial3Theme 0x7f0301fe
 int attr isMaterialTheme 0x7f0301ff
+int attr isOpaque 0x7f030451
 int attr itemActiveIndicatorStyle 0x7f030200
 int attr itemBackground 0x7f030201
 int attr itemFillColor 0x7f030202
@@ -2497,6 +2500,7 @@ int drawable design_password_eye 0x7f07007a
 int drawable design_snackbar_background 0x7f07007b
 int drawable googleg_disabled_color_18 0x7f07007c
 int drawable googleg_standard_color_18 0x7f07007d
+int drawable hotellogobaru 0x7f0700bd
 int drawable ic_clock_black_24dp 0x7f07007e
 int drawable ic_keyboard_black_24dp 0x7f07007f
 int drawable ic_launcher_background 0x7f070080
@@ -2551,6 +2555,7 @@ int drawable notification_template_icon_low_bg 0x7f0700b0
 int drawable notification_tile_bg 0x7f0700b1
 int drawable notify_panel_notification_icon_bg 0x7f0700b2
 int drawable profileicon 0x7f0700b3
+int drawable purplegradient 0x7f0700be
 int drawable relaxhotell 0x7f0700b4
 int drawable roompic 0x7f0700b5
 int drawable test_custom_background 0x7f0700b6
@@ -2850,6 +2855,13 @@ int id linear 0x7f090116
 int id listMode 0x7f090117
 int id list_item 0x7f090118
 int id logoutMenu 0x7f090119
+int id lpart1 0x7f090224
+int id lpart2 0x7f090225
+int id lpart3 0x7f090226
+int id lpart4 0x7f090227
+int id lpart5 0x7f090228
+int id lpart6 0x7f090229
+int id ltop 0x7f09022a
 int id masked 0x7f09011a
 int id match_constraint 0x7f09011b
 int id match_parent 0x7f09011c
@@ -5517,6 +5529,11 @@ int styleable Fragment_android_tag 2
 int[] styleable FragmentContainerView { 0x01010003, 0x010100d1 }
 int styleable FragmentContainerView_android_name 0
 int styleable FragmentContainerView_android_tag 1
+int[] styleable GifTextureView { 0x7f030450, 0x7f030451 }
+int styleable GifTextureView_gifSource 0
+int styleable GifTextureView_isOpaque 1
+int[] styleable GifView { 0x7f03044f }
+int styleable GifView_freezesAnimation 0
 int[] styleable GradientColor { 0x0101019d, 0x0101019e, 0x010101a1, 0x010101a2, 0x010101a3, 0x010101a4, 0x01010201, 0x0101020b, 0x01010510, 0x01010511, 0x01010512, 0x01010513 }
 int styleable GradientColor_android_startColor 0
 int styleable GradientColor_android_endColor 1

@@ -16,6 +16,10 @@
         "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\drawable_purplegradient.gif.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\drawable\\purplegradient.gif"
+    },
+    {
         "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_tranquillogo.png.flat",
         "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\mipmap-mdpi\\tranquillogo.png"
     },
@@ -86,6 +90,10 @@
     {
         "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\drawable_invoiceicon.png.flat",
         "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\drawable\\invoiceicon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\drawable_hotellogobaru.png.flat",
+        "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\drawable\\hotellogobaru.png"
     },
     {
         "merged": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_tranquillogo.png.flat",

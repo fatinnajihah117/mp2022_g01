@@ -41,5 +41,6 @@ dependencies {
     implementation platform('com.google.firebase:firebase-bom:29.2.0')
     implementation 'com.google.firebase:firebase-analytics'
     implementation 'com.squareup.picasso:picasso:2.71828'
+    implementation 'pl.droidsonroids.gif:android-gif-drawable:1.2.3'
 
 }
