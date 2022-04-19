@@ -29,7 +29,9 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
->
+        <activity
+            android:name="com.example.tranquiltrip.ConfirmActivity"
+            android:exported="false" />
         <activity
             android:name="com.example.tranquiltrip.ContactUsActivity"
             android:exported="false" />
