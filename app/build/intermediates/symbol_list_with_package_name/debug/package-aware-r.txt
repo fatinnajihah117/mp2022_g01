@@ -2499,6 +2499,8 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable editprofilepic
+drawable editprofilepicpurple
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable hotellogobaru
@@ -2781,7 +2783,6 @@ id enterAlwaysCollapsed
 id etAge
 id etAgeUpdate
 id etDate
-id etEmailUpdate
 id etFullName
 id etGuest
 id etName
@@ -2869,6 +2870,8 @@ id lpart3
 id lpart4
 id lpart5
 id lpart6
+id lpart7
+id lpart8
 id ltop
 id masked
 id match_constraint
@@ -3107,6 +3110,7 @@ id transition_scene_layoutid_cache
 id transition_transform
 id triangle
 id tvDate
+id tvEmail
 id tvForgotPassword
 id tvFullName
 id tvGuest

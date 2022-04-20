@@ -6,16 +6,16 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="19"
-8-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml
+8-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="32" />
-9-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml
+9-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-11-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:5:5-80
-11-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:5:22-77
+11-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:5:5-80
+11-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:5:22-77
 12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-12-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:6:5-81
-12-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:6:22-78
+12-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:6:5-81
+12-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:6:22-78
 13
 14    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
 15    <!-- <uses-sdk android:minSdkVersion="14"/> -->
@@ -36,129 +36,129 @@
 20-->[com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\User\.gradle\caches\transforms-3\bbeeee8c4e65a6c4d232ce69b2944cc0\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:22-76
 21
 22    <application
-22-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:8:5-69:19
+22-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:8:5-70:19
 23        android:allowBackup="true"
-23-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:9:9-35
+23-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:9:9-35
 24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 24-->[androidx.core:core:1.7.0] C:\Users\User\.gradle\caches\transforms-3\8fff248dbe0397cca10a959cecdafd82\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 25        android:debuggable="true"
 26        android:icon="@mipmap/tranquillogo"
-26-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:10:9-44
+26-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:10:9-44
 27        android:label="@string/app_name"
-27-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:11:9-41
+27-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:11:9-41
 28        android:roundIcon="@mipmap/tranquillogoround"
-28-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:12:9-54
+28-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:12:9-54
 29        android:supportsRtl="true"
-29-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:13:9-35
+29-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:13:9-35
 30        android:testOnly="true"
 31        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
-31-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:14:9-65
+31-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:14:9-65
 32        <activity
-32-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:15:9-17:40
+32-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:15:9-17:40
 33            android:name="com.example.tranquiltrip.ConfirmActivity"
-33-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:16:13-44
+33-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:16:13-44
 34            android:exported="false" />
-34-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:17:13-37
+34-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:17:13-37
 35        <activity
-35-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:18:9-20:40
+35-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:19:9-21:40
 36            android:name="com.example.tranquiltrip.ContactUsActivity"
-36-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:19:13-46
+36-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:20:13-46
 37            android:exported="false" />
-37-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:20:13-37
+37-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:21:13-37
 38        <activity
-38-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:21:9-23:40
+38-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:22:9-24:40
 39            android:name="com.example.tranquiltrip.InvoiceActivity"
-39-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:22:13-44
+39-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:23:13-44
 40            android:exported="false" />
-40-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:23:13-37
+40-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:24:13-37
 41        <activity
-41-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:24:9-26:40
+41-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:25:9-27:40
 42            android:name="com.example.tranquiltrip.Booking"
-42-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:25:13-36
+42-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:26:13-36
 43            android:exported="false" />
-43-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:26:13-37
+43-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:27:13-37
 44        <activity
-44-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:27:9-29:40
+44-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:28:9-30:40
 45            android:name="com.example.tranquiltrip.roomtype"
-45-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:28:13-37
+45-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:29:13-37
 46            android:exported="false" />
-46-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:29:13-37
+46-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:30:13-37
 47        <activity
-47-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:30:9-32:40
+47-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:31:9-33:40
 48            android:name="com.example.tranquiltrip.ChangePassword"
-48-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:31:13-43
+48-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:32:13-43
 49            android:exported="false" />
-49-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:32:13-37
+49-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:33:13-37
 50        <activity
-50-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:33:9-35:40
+50-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:34:9-36:40
 51            android:name="com.example.tranquiltrip.UpdateProfile"
-51-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:34:13-42
+51-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:35:13-42
 52            android:exported="false" />
-52-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:35:13-37
+52-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:36:13-37
 53        <activity
-53-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:36:9-38:40
+53-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:37:9-39:40
 54            android:name="com.example.tranquiltrip.ProfileActivity"
-54-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:37:13-44
+54-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:38:13-44
 55            android:exported="false" />
-55-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:38:13-37
+55-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:39:13-37
 56        <activity
-56-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:39:9-41:40
+56-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:40:9-42:40
 57            android:name="com.example.tranquiltrip.ForgotPassword"
-57-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:40:13-43
+57-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:41:13-43
 58            android:exported="false" />
-58-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:41:13-37
+58-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:42:13-37
 59        <activity
-59-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:42:9-44:40
+59-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:43:9-45:40
 60            android:name="com.example.tranquiltrip.SecondActivity"
-60-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:43:13-43
+60-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:44:13-43
 61            android:exported="false" />
-61-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:44:13-37
+61-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:45:13-37
 62        <activity
-62-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:45:9-47:40
+62-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:46:9-48:40
 63            android:name="com.example.tranquiltrip.RegistrationActivity"
-63-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:46:13-49
+63-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:47:13-49
 64            android:exported="false" />
-64-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:47:13-37
+64-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:48:13-37
 65        <activity
-65-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:48:9-56:20
+65-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:49:9-57:20
 66            android:name="com.example.tranquiltrip.SplashScreen"
-66-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:49:13-41
+66-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:50:13-41
 67            android:exported="true" >
-67-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:50:13-36
+67-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:51:13-36
 68            <intent-filter>
-68-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:51:13-55:29
+68-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:52:13-56:29
 69                <action android:name="android.intent.action.MAIN" />
-69-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:52:17-69
-69-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:52:25-66
+69-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:53:17-69
+69-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:53:25-66
 70
 71                <category android:name="android.intent.category.LAUNCHER" />
-71-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:54:17-77
-71-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:54:27-74
+71-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:55:17-77
+71-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:55:27-74
 72            </intent-filter>
 73        </activity>
 74        <activity
-74-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:57:9-65:20
+74-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:58:9-66:20
 75            android:name="com.example.tranquiltrip.SplashScreen2"
-75-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:58:13-42
+75-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:59:13-42
 76            android:exported="true" >
-76-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:59:13-36
+76-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:60:13-36
 77            <intent-filter>
-77-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:51:13-55:29
+77-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:52:13-56:29
 78                <action android:name="android.intent.action.MAIN" />
-78-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:52:17-69
-78-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:52:25-66
+78-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:53:17-69
+78-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:53:25-66
 79
 80                <category android:name="android.intent.category.LAUNCHER" />
-80-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:54:17-77
-80-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:54:27-74
+80-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:55:17-77
+80-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:55:27-74
 81            </intent-filter>
 82        </activity>
 83        <activity
-83-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:66:9-68:39
+83-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:67:9-69:39
 84            android:name="com.example.tranquiltrip.MainActivity"
-84-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:67:13-41
+84-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:68:13-41
 85            android:exported="true" />
-85-->C:\Users\User\Desktop\MASTER GROUP PROJECT 1\app\src\main\AndroidManifest.xml:68:13-36
+85-->C:\Users\User\Documents\MASTER PROJECT GROUP 1\mp2022_g01\app\src\main\AndroidManifest.xml:69:13-36
 86
 87        <service
 87-->[com.google.firebase:firebase-database:20.0.4] C:\Users\User\.gradle\caches\transforms-3\bc21d98e0e81a37e3bb2df404e9e11ec\transformed\jetified-firebase-database-20.0.4\AndroidManifest.xml:29:9-35:19
@@ -272,13 +272,13 @@
 143        </activity>
 144
 145        <provider
-145-->[com.squareup.picasso:picasso:2.71828] C:\Users\User\.gradle\caches\transforms-3\156e5ce7999ec84ddc85ae6ea165fd5b\transformed\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+145-->[com.squareup.picasso:picasso:2.71828] C:\Users\User\.gradle\caches\transforms-3\10645a1c872b8acd5163e57093f6b446\transformed\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
 146            android:name="com.squareup.picasso.PicassoProvider"
-146-->[com.squareup.picasso:picasso:2.71828] C:\Users\User\.gradle\caches\transforms-3\156e5ce7999ec84ddc85ae6ea165fd5b\transformed\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+146-->[com.squareup.picasso:picasso:2.71828] C:\Users\User\.gradle\caches\transforms-3\10645a1c872b8acd5163e57093f6b446\transformed\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
 147            android:authorities="com.example.tranquiltrip.com.squareup.picasso"
-147-->[com.squareup.picasso:picasso:2.71828] C:\Users\User\.gradle\caches\transforms-3\156e5ce7999ec84ddc85ae6ea165fd5b\transformed\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+147-->[com.squareup.picasso:picasso:2.71828] C:\Users\User\.gradle\caches\transforms-3\10645a1c872b8acd5163e57093f6b446\transformed\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
 148            android:exported="false" />
-148-->[com.squareup.picasso:picasso:2.71828] C:\Users\User\.gradle\caches\transforms-3\156e5ce7999ec84ddc85ae6ea165fd5b\transformed\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+148-->[com.squareup.picasso:picasso:2.71828] C:\Users\User\.gradle\caches\transforms-3\10645a1c872b8acd5163e57093f6b446\transformed\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
 149        <provider
 149-->[com.google.firebase:firebase-common:20.1.0] C:\Users\User\.gradle\caches\transforms-3\25d7406613836544b3de6e8507544e58\transformed\jetified-firebase-common-20.1.0\AndroidManifest.xml:26:9-31:39
 150            android:name="com.google.firebase.provider.FirebaseInitProvider"

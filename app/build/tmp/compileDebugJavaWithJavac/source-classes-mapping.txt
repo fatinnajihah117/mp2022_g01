@@ -1,9 +1,3 @@
-com/example/tranquiltrip/BuildConfig.java
- com.example.tranquiltrip.BuildConfig
-com/example/tranquiltrip/UserProfile.java
- com.example.tranquiltrip.UserProfile
-com/example/tranquiltrip/ConfirmBooking.java
- com.example.tranquiltrip.ConfirmBooking
 com/example/tranquiltrip/ContactUsActivity.java
  com.example.tranquiltrip.ContactUsActivity
 com/example/tranquiltrip/RegistrationActivity.java
@@ -17,13 +11,16 @@ com/example/tranquiltrip/RegistrationActivity.java
  com.example.tranquiltrip.RegistrationActivity$6
 com/example/tranquiltrip/roomtype.java
  com.example.tranquiltrip.roomtype
-com/example/tranquiltrip/ForgotPassword.java
- com.example.tranquiltrip.ForgotPassword
- com.example.tranquiltrip.ForgotPassword$1
- com.example.tranquiltrip.ForgotPassword$1$1
-com/example/tranquiltrip/SplashScreen2.java
- com.example.tranquiltrip.SplashScreen2
- com.example.tranquiltrip.SplashScreen2$1
+com/example/tranquiltrip/Booking.java
+ com.example.tranquiltrip.Booking
+ com.example.tranquiltrip.Booking$1
+com/example/tranquiltrip/UserProfile.java
+ com.example.tranquiltrip.UserProfile
+com/example/tranquiltrip/ConfirmActivity.java
+ com.example.tranquiltrip.ConfirmActivity
+ com.example.tranquiltrip.ConfirmActivity$1
+com/example/tranquiltrip/ConfirmBooking.java
+ com.example.tranquiltrip.ConfirmBooking
 com/example/tranquiltrip/ChangePassword.java
  com.example.tranquiltrip.ChangePassword
  com.example.tranquiltrip.ChangePassword$1
@@ -49,6 +46,8 @@ com/example/tranquiltrip/SplashScreen.java
  com.example.tranquiltrip.SplashScreen$1
  com.example.tranquiltrip.SplashScreen$1$1
  com.example.tranquiltrip.SplashScreen$2
+com/example/tranquiltrip/BuildConfig.java
+ com.example.tranquiltrip.BuildConfig
 com/example/tranquiltrip/ProfileActivity.java
  com.example.tranquiltrip.ProfileActivity
  com.example.tranquiltrip.ProfileActivity$1
@@ -63,9 +62,10 @@ com/example/tranquiltrip/UpdateProfile.java
  com.example.tranquiltrip.UpdateProfile$3$1
  com.example.tranquiltrip.UpdateProfile$3$2
  com.example.tranquiltrip.UpdateProfile$4
-com/example/tranquiltrip/Booking.java
- com.example.tranquiltrip.Booking
- com.example.tranquiltrip.Booking$1
-com/example/tranquiltrip/ConfirmActivity.java
- com.example.tranquiltrip.ConfirmActivity
- com.example.tranquiltrip.ConfirmActivity$1
+com/example/tranquiltrip/SplashScreen2.java
+ com.example.tranquiltrip.SplashScreen2
+ com.example.tranquiltrip.SplashScreen2$1
+com/example/tranquiltrip/ForgotPassword.java
+ com.example.tranquiltrip.ForgotPassword
+ com.example.tranquiltrip.ForgotPassword$1
+ com.example.tranquiltrip.ForgotPassword$1$1

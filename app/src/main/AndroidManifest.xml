@@ -15,6 +15,7 @@
         <activity
             android:name=".ConfirmActivity"
             android:exported="false" />
+
         <activity
             android:name=".ContactUsActivity"
             android:exported="false" />

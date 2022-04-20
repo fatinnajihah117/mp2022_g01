@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\User\\Desktop\\MASTER GROUP PROJECT 1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\8d24324243cc11ae2eaff0ea30d231d4\\transformed\\transition-1.2.0\\res\\values\\values.xml",
@@ -74,37 +74,37 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\User\\Desktop\\MASTER GROUP PROJECT 1\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\values\\colors.xml",
                     "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "17",
-                        "endColumns": "49",
-                        "endOffsets": "62"
+                        "startLines": "7,2,3,4,5,6,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "286,55,102,149,196,241,328",
+                        "endColumns": "41,46,46,46,44,44,41",
+                        "endOffsets": "323,97,144,191,236,281,365"
                     },
                     "to": {
-                        "startLines": "1608",
-                        "startColumns": "4",
-                        "startOffsets": "98100",
-                        "endColumns": "49",
-                        "endOffsets": "98145"
+                        "startLines": "586,816,817,818,829,830,834",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "29799,46373,46420,46467,47211,47256,47464",
+                        "endColumns": "41,46,46,46,44,44,41",
+                        "endOffsets": "29836,46415,46462,46509,47251,47296,47501"
                     }
                 },
                 {
-                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\08d668c9b5e667dc5e48478825699169\\transformed\\jetified-android-gif-drawable-1.2.3\\res\\values\\values.xml",
+                    "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
                     "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,211",
-                        "endColumns": "155,106",
-                        "endOffsets": "206,313"
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,200,283,387,497,617,717",
+                        "endColumns": "144,82,103,109,119,99,76",
+                        "endOffsets": "195,278,382,492,612,712,789"
                     },
                     "to": {
-                        "startLines": "10316,10317",
-                        "startColumns": "4,4",
-                        "startOffsets": "663730,663886",
-                        "endColumns": "155,106",
-                        "endOffsets": "663881,663988"
+                        "startLines": "1635,1640,1641,1642,1643,1644,1734",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "101427,102040,102123,102227,102337,102457,115762",
+                        "endColumns": "144,82,103,109,119,99,76",
+                        "endOffsets": "101567,102118,102222,102332,102452,102552,115834"
                     }
                 },
                 {
@@ -184,6 +184,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "49",
+                        "endOffsets": "61"
+                    },
+                    "to": {
+                        "startLines": "1608",
+                        "startColumns": "4",
+                        "startOffsets": "98100",
+                        "endColumns": "49",
+                        "endOffsets": "98145"
+                    }
+                },
+                {
                     "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\83fe705c0f98a9db977493fae4553fee\\transformed\\jetified-savedstate-1.1.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -258,40 +275,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\User\\Desktop\\MASTER GROUP PROJECT 1\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "7,2,3,4,5,6,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "293,57,105,153,201,247,336",
-                        "endColumns": "41,46,46,46,44,44,41",
-                        "endOffsets": "330,99,147,195,241,287,373"
-                    },
-                    "to": {
-                        "startLines": "586,816,817,818,829,830,834",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "29799,46373,46420,46467,47211,47256,47464",
-                        "endColumns": "41,46,46,46,44,44,41",
-                        "endOffsets": "29836,46415,46462,46509,47251,47296,47501"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\User\\Desktop\\MASTER GROUP PROJECT 1\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "55,200,283,387,497,617,717",
-                        "endColumns": "144,82,103,109,119,99,76",
-                        "endOffsets": "195,278,382,492,612,712,789"
-                    },
-                    "to": {
-                        "startLines": "1635,1640,1641,1642,1643,1644,1734",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "101427,102040,102123,102227,102337,102457,115762",
-                        "endColumns": "144,82,103,109,119,99,76",
-                        "endOffsets": "101567,102118,102222,102332,102452,102552,115834"
-                    }
-                },
-                {
                     "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\d829e70d3a35e309f4449c77e07d44eb\\transformed\\drawerlayout-1.1.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5",
@@ -308,25 +291,6 @@
                         "endLines": "115,118,931,10140",
                         "endColumns": "55,47,51,24",
                         "endOffsets": "5732,5888,53970,653600"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\User\\Desktop\\MASTER GROUP PROJECT 1\\app\\src\\main\\res\\values\\themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "102",
-                        "endLines": "14",
-                        "endColumns": "12",
-                        "endOffsets": "835"
-                    },
-                    "to": {
-                        "startLines": "5719",
-                        "startColumns": "4",
-                        "startOffsets": "393548",
-                        "endLines": "5731",
-                        "endColumns": "12",
-                        "endOffsets": "394267"
                     }
                 },
                 {
@@ -361,6 +325,25 @@
                         "startOffsets": "93418,100134",
                         "endColumns": "67,166",
                         "endOffsets": "93481,100296"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\User\\Documents\\MASTER PROJECT GROUP 1\\mp2022_g01\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "821"
+                    },
+                    "to": {
+                        "startLines": "5719",
+                        "startColumns": "4",
+                        "startOffsets": "393548",
+                        "endLines": "5731",
+                        "endColumns": "12",
+                        "endOffsets": "394267"
                     }
                 },
                 {
@@ -416,6 +399,23 @@
                         "endLines": "448,983,984,985,993,994,995,1465,11484",
                         "endColumns": "55,58,47,55,74,75,71,65,24",
                         "endOffsets": "22054,57352,57400,57456,58142,58218,58290,89637,720743"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\e27f0e0ec3299962544b55359d13d5a6\\transformed\\jetified-android-gif-drawable-1.2.3\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,211",
+                        "endColumns": "155,106",
+                        "endOffsets": "206,313"
+                    },
+                    "to": {
+                        "startLines": "10316,10317",
+                        "startColumns": "4,4",
+                        "startOffsets": "663730,663886",
+                        "endColumns": "155,106",
+                        "endOffsets": "663881,663988"
                     }
                 },
                 {
