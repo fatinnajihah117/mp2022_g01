@@ -67,4 +67,6 @@ public class ConfirmBooking {
     public void setTotal(String total) {
         this.total = total;
     }
+
+
 }
