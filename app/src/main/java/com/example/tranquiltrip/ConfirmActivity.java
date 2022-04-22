@@ -17,7 +17,7 @@ public class ConfirmActivity extends AppCompatActivity {
     TextView FullName, PhoneNo, RoomType, Date, Guest, Total;
     private FirebaseAuth firebaseauth;
     private FirebaseDatabase firebaseDatabase;
-    Button Confirm;
+    Button Confirm,back;
     String iFullName, iPhoneNo, iRoomType, iGuest, iDate, iTotal;
 
     @Override
@@ -34,6 +34,7 @@ public class ConfirmActivity extends AppCompatActivity {
         Guest = findViewById(R.id.tvGuest);
         Total = findViewById(R.id.tvTotal);
         Confirm = findViewById(R.id.btnConfirm);
+        back = findViewById(R.id.btnBackk);
 
         iFullName = getIntent().getStringExtra("keyfullname");
         iPhoneNo = getIntent().getStringExtra("keyphoneno");
@@ -49,6 +50,13 @@ public class ConfirmActivity extends AppCompatActivity {
 
         calculateRoomPrice(iRoomType);
         Total.setText(iTotal);
+
+        back.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(ConfirmActivity.this, Booking.class));
+            }
+        });
 
         Confirm.setOnClickListener(new View.OnClickListener() {
             @Override

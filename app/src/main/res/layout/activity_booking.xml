@@ -1,180 +1,361 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#D1C4D8"
+    android:background="#fff"
     tools:context=".Booking">
 
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="340dp"
+        android:orientation="vertical">
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="340dp"
+            android:src="@drawable/newbooklong"
+            android:scaleType="fitXY"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="83dp"
+        android:layout_height="80dp">
+
+        <ImageButton
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="10dp"
+            android:scaleType="fitXY"
+            app:tint="@color/white"
+            android:background="#0000"
+            android:id="@+id/btnbackdashboard"
+            android:src="@drawable/backbutton">
+
+        </ImageButton>
+
+
+    </LinearLayout>
     <TextView
-        android:id="@+id/textView5"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:fontFamily="@font/monsterratsemibold"
-        android:text="BOOK A ROOM"
-        android:textColor="#FFFFFF"
-        android:textSize="34sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.047" />
+        android:text="BOOKING FORM"
+        android:fontFamily="@font/momcakebold"
+        android:textSize="50sp"
+        android:textColor="#fff"
+        android:layout_marginTop="220dp"
+        android:gravity="center"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginTop="260dp">
 
-    <TextView
-        android:id="@+id/textView8"
-        android:layout_width="185dp"
-        android:layout_height="37dp"
-        android:fontFamily="@font/monsterratsemibold"
-        android:text="FULL NAME:"
-        android:textColor="#FFFFFF"
-        android:textSize="24sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.067"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView5"
-        app:layout_constraintVertical_bias="0.015" />
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:cardCornerRadius="30dp">
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
 
-    <EditText
-        android:id="@+id/etFullName"
-        android:layout_width="300dp"
-        android:layout_height="wrap_content"
-        android:ems="10"
-        android:hint="Full Name"
-        android:inputType="textPersonName"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.172"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView8"
-        app:layout_constraintVertical_bias="0.021" />
+                    <LinearLayout
+                        android:id="@+id/part1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
 
-    <TextView
-        android:id="@+id/textView9"
-        android:layout_width="145dp"
-        android:layout_height="42dp"
-        android:fontFamily="@font/monsterratsemibold"
-        android:text="PHONE NO."
-        android:textColor="#FFFFFF"
-        android:textSize="24sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.064"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/etFullName"
-        app:layout_constraintVertical_bias="0.04" />
+                        <TextView
+                            android:layout_width="300dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="20dp"
+                            android:layout_marginTop="30dp"
+                            android:layout_marginRight="40dp"
+                            android:fontFamily="@font/monsterratbold"
+                            android:text="Full Name"
+                            android:textColor="#6C597A"
+                            android:textSize="21dp"
+                            android:textStyle="bold"></TextView>
 
-    <EditText
-        android:id="@+id/etPhoneNo"
-        android:layout_width="310dp"
-        android:layout_height="40dp"
-        android:layout_marginTop="24dp"
-        android:ems="10"
-        android:hint="Phone No"
-        android:inputType="number"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.192"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView9"
-        app:layout_constraintVertical_bias="0.004" />
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="match_parent"
+                            android:layout_height="50dp"
+                            android:layout_marginLeft="20dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_marginRight="20dp"
+                            android:layout_marginBottom="2dp"
+                            android:layout_weight="1"
+                            app:cardBackgroundColor="#DFDFDF"
+                            app:cardCornerRadius="20dp">
 
-    <TextView
-        android:id="@+id/textView10"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:fontFamily="@font/monsterratsemibold"
-        android:text="ROOM TYPE"
-        android:textColor="#FFFFFF"
-        android:textSize="24sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.061"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/etPhoneNo"
-        app:layout_constraintVertical_bias="0.06" />
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
 
-    <AutoCompleteTextView
-        android:id="@+id/etRoomType"
-        android:layout_width="310dp"
-        android:layout_height="wrap_content"
-        android:hint="Room Type"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.168"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView10"
-        app:layout_constraintVertical_bias="0.0" />
+                                <EditText
+                                    android:id="@+id/etFullName"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:background="@android:color/transparent"
+                                    android:ems="10"
+                                    android:fontFamily="@font/monsterratbold"
+                                    android:gravity="center"
+                                    android:hint="Name"
+                                    android:inputType="textPersonName"
+                                    android:textColorHint="#BDBDBD" />
+                            </RelativeLayout>
+                        </androidx.cardview.widget.CardView>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:layout_below="@+id/part1"
+                        android:id="@+id/part2">
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical">
 
-    <TextView
-        android:id="@+id/textView11"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:fontFamily="@font/monsterratsemibold"
-        android:text="SELECT DATE"
-        android:textColor="#F4F4F4"
-        android:textSize="24sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.065"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/etRoomType"
-        app:layout_constraintVertical_bias="0.076" />
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="20dp"
+                                android:layout_marginTop="30dp"
+                                android:layout_marginRight="40dp"
+                                android:fontFamily="@font/monsterratbold"
+                                android:text="Room Type"
+                                android:textColor="#6C597A"
+                                android:textSize="21dp"
+                                android:textStyle="bold"></TextView>
 
-    <EditText
-        android:id="@+id/etDate"
-        android:layout_width="310dp"
-        android:layout_height="wrap_content"
-        android:ems="10"
-        android:hint="Date"
-        android:inputType="date"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.168"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView11"
-        app:layout_constraintVertical_bias="0.081" />
+                            <androidx.cardview.widget.CardView
+                                android:layout_width="match_parent"
+                                android:layout_height="50dp"
+                                android:layout_marginLeft="20dp"
+                                android:layout_marginTop="5dp"
+                                android:layout_marginBottom="2dp"
+                                android:layout_weight="1"
+                                app:cardBackgroundColor="#DFDFDF"
+                                app:cardCornerRadius="20dp">
 
-    <Button
-        android:id="@+id/btnSubmit"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:fontFamily="@font/monsterratsemibold"
-        android:text="SUBMIT"
-        android:textSize="16sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/etGuest" />
+                                <RelativeLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent">
 
-    <TextView
-        android:id="@+id/textView12"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:fontFamily="@font/monsterratsemibold"
-        android:text="Total Guest"
-        android:textColor="#FFFFFF"
-        android:textSize="24sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.059"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/etDate"
-        app:layout_constraintVertical_bias="0.14" />
+                                    <AutoCompleteTextView
+                                        android:id="@+id/etRoomType"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        android:background="@android:color/transparent"
+                                        android:ems="10"
+                                        android:fontFamily="@font/monsterratbold"
+                                        android:gravity="center"
+                                        android:hint="Single Bedroom"
+                                        android:textColorHint="#BDBDBD" />
+                                </RelativeLayout>
+                            </androidx.cardview.widget.CardView>
+                        </LinearLayout>
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical">
 
-    <EditText
-        android:id="@+id/etGuest"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:ems="10"
-        android:hint="Enter total guest"
-        android:inputType="textPersonName"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.076"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView12"
-        app:layout_constraintVertical_bias="0.0" />
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="20dp"
+                                android:layout_marginTop="30dp"
+                                android:layout_marginRight="40dp"
+                                android:fontFamily="@font/monsterratbold"
+                                android:text="Date"
+                                android:textColor="#6C597A"
+                                android:textSize="21dp"
+                                android:textStyle="bold"></TextView>
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+                            <androidx.cardview.widget.CardView
+                                android:layout_width="match_parent"
+                                android:layout_height="50dp"
+                                android:layout_marginLeft="20dp"
+                                android:layout_marginTop="5dp"
+                                android:layout_weight="1"
+                                android:layout_marginRight="20dp"
+                                android:layout_marginBottom="2dp"
+                                app:cardBackgroundColor="#DFDFDF"
+                                app:cardCornerRadius="20dp">
+
+                                <RelativeLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent">
+
+                                    <EditText
+                                        android:id="@+id/etDate"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        android:background="@android:color/transparent"
+                                        android:ems="10"
+                                        android:fontFamily="@font/monsterratbold"
+                                        android:gravity="center"
+                                        android:hint="DD/MM/YY"
+                                        android:inputType="date"
+                                        android:textColorHint="#BDBDBD" />
+                                </RelativeLayout>
+                            </androidx.cardview.widget.CardView>
+                        </LinearLayout>
+
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:layout_below="@+id/part2"
+                        android:id="@+id/part3">
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="20dp"
+                                android:layout_marginTop="30dp"
+                                android:layout_marginRight="40dp"
+                                android:fontFamily="@font/monsterratbold"
+                                android:text="Phone No.  "
+                                android:textColor="#6C597A"
+                                android:textSize="21dp"
+                                android:textStyle="bold"></TextView>
+
+                            <androidx.cardview.widget.CardView
+                                android:layout_width="match_parent"
+                                android:layout_height="50dp"
+                                android:layout_marginLeft="20dp"
+                                android:layout_marginTop="5dp"
+                                android:layout_weight="1"
+                                android:layout_marginBottom="2dp"
+                                app:cardBackgroundColor="#DFDFDF"
+                                app:cardCornerRadius="20dp">
+
+                                <RelativeLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent">
+
+                                    <EditText
+                                        android:id="@+id/etPhoneNo"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        android:background="@android:color/transparent"
+                                        android:ems="10"
+                                        android:fontFamily="@font/monsterratbold"
+                                        android:gravity="center"
+                                        android:hint="013-5495694"
+                                        android:inputType="number"
+                                        android:textColorHint="#BDBDBD" />
+                                </RelativeLayout>
+                            </androidx.cardview.widget.CardView>
+                        </LinearLayout>
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="20dp"
+                                android:layout_marginTop="30dp"
+                                android:layout_marginRight="40dp"
+                                android:fontFamily="@font/monsterratbold"
+                                android:text="Total Guest"
+                                android:textColor="#6C597A"
+                                android:textSize="21dp"
+                                android:textStyle="bold"></TextView>
+
+                            <androidx.cardview.widget.CardView
+                                android:layout_width="match_parent"
+                                android:layout_height="50dp"
+                                android:layout_marginLeft="20dp"
+                                android:layout_marginTop="5dp"
+                                android:layout_weight="1"
+                                android:layout_marginBottom="2dp"
+                                android:layout_marginRight="20dp"
+                                app:cardBackgroundColor="#DFDFDF"
+                                app:cardCornerRadius="20dp">
+
+                                <RelativeLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent">
+
+                                    <EditText
+                                        android:id="@+id/etGuest"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        android:background="@android:color/transparent"
+                                        android:ems="10"
+                                        android:fontFamily="@font/monsterratbold"
+                                        android:gravity="center"
+                                        android:hint="1 - 4"
+                                        android:inputType="number"
+                                        android:textColorHint="#BDBDBD" />
+                                </RelativeLayout>
+                            </androidx.cardview.widget.CardView>
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_below="@+id/part3"
+                        android:orientation="vertical">
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="match_parent"
+                            android:layout_height="60dp"
+                            android:layout_gravity="bottom"
+                            android:layout_marginLeft="20dp"
+                            android:layout_marginRight="20dp"
+                            android:layout_marginTop="40dp"
+                            android:layout_marginBottom="30dp"
+                            android:layout_weight="1"
+                            app:cardBackgroundColor="#967DBD"
+                            app:cardCornerRadius="30dp">
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:fontFamily="@font/momcakebold"
+                                android:gravity="center"
+                                android:text="S U B M I T"
+                                android:textColor="#fff"
+                                android:textSize="34dp" />
+
+                            <Button
+                                android:id="@+id/btnSubmit"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:background="@android:color/transparent">
+
+                            </Button>
+
+                        </androidx.cardview.widget.CardView>
+
+
+                    </LinearLayout>
+                </RelativeLayout>
+
+            </ScrollView>
+
+
+        </androidx.cardview.widget.CardView>
+    </LinearLayout>
+
+</RelativeLayout>
