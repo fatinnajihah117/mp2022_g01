@@ -37,6 +37,7 @@ public class UpdateProfile extends AppCompatActivity {
     private EditText newUserName, newUserAge;
     private TextView newUserEmail;
     private Button save;
+    private ImageView back;
     private FirebaseAuth firebaseAuth;
     private FirebaseDatabase firebaseDatabase;
     private ImageView updateProfilePic;
@@ -70,6 +71,7 @@ public class UpdateProfile extends AppCompatActivity {
         newUserAge = findViewById(R.id.etAgeUpdate);
         save = findViewById(R.id.btnSave);
         updateProfilePic = findViewById(R.id.ivProfileUpdate);
+        back = findViewById(R.id.btnbackdashboard);
 
         //getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
@@ -102,6 +104,12 @@ public class UpdateProfile extends AppCompatActivity {
             }
         });
 
+        back.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(UpdateProfile.this,ProfileActivity.class));
+            }
+        });
         save.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {

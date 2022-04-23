@@ -332,7 +332,7 @@
 
                 <LinearLayout
                     android:layout_width="match_parent"
-                    android:layout_height="60dp"
+                    android:layout_height="wrap_content"
                     android:orientation="horizontal">
 
                     //button LOGOUT
@@ -342,6 +342,7 @@
                         android:layout_height="56dp"
                         android:layout_marginLeft="14dp"
                         android:layout_marginRight="209dp"
+                        android:layout_marginBottom="30dp"
                         android:layout_weight="1"
                         app:cardCornerRadius="20dp">
 

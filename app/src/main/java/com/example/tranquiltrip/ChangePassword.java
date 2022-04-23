@@ -3,6 +3,7 @@ package com.example.tranquiltrip;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.MenuItem;
 import android.view.View;
@@ -18,7 +19,7 @@ import com.google.firebase.database.FirebaseDatabase;
 
 public class ChangePassword extends AppCompatActivity {
 
-    private Button update;
+    private Button update,back;
     private EditText newPassword;
     private FirebaseUser firebaseUser;
     private FirebaseAuth firebaseAuth;
@@ -30,10 +31,17 @@ public class ChangePassword extends AppCompatActivity {
 
         update = findViewById(R.id.btnUpdatePassword);
         newPassword = findViewById(R.id.etNewPassword);
+        back = findViewById(R.id.btnbacktoprofile);
 
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         firebaseUser = FirebaseAuth.getInstance().getCurrentUser();
+
+        back.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(ChangePassword.this, ProfileActivity.class));
+            }
+        });
 
         update.setOnClickListener(new View.OnClickListener() {
             @Override

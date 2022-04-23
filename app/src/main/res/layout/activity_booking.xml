@@ -257,7 +257,7 @@
                                         android:ems="10"
                                         android:fontFamily="@font/monsterratbold"
                                         android:gravity="center"
-                                        android:hint="013-5495694"
+                                        android:hint="0135495694"
                                         android:inputType="number"
                                         android:textColorHint="#BDBDBD" />
                                 </RelativeLayout>
