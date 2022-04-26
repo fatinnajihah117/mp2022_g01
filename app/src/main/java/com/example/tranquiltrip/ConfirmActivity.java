@@ -1,8 +1,15 @@
 package com.example.tranquiltrip;
 
-import androidx.appcompat.app.AppCompatActivity;
+import static android.os.Build.*;
 
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.app.NotificationCompat;
+import androidx.core.app.NotificationManagerCompat;
+
+import android.app.NotificationChannel;
+import android.app.NotificationManager;
 import android.content.Intent;
+import android.os.Build;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -19,6 +26,8 @@ public class ConfirmActivity extends AppCompatActivity {
     private FirebaseDatabase firebaseDatabase;
     Button Confirm,back;
     String iFullName, iPhoneNo, iRoomType, iGuest, iDate, iTotal;
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -51,6 +60,12 @@ public class ConfirmActivity extends AppCompatActivity {
         calculateRoomPrice(iRoomType);
         Total.setText(iTotal);
 
+        if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.O){
+            NotificationChannel channel = new NotificationChannel("My Notification","My Notification", NotificationManager.IMPORTANCE_DEFAULT);
+            NotificationManager manager = getSystemService(NotificationManager.class);
+            manager.createNotificationChannel(channel);
+        }
+
         back.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -67,6 +82,16 @@ public class ConfirmActivity extends AppCompatActivity {
                 Toast.makeText(ConfirmActivity.this,"Booking Successful",Toast.LENGTH_SHORT).show();
                 finish();
                 startActivity(new Intent(ConfirmActivity.this, SecondActivity.class));
+
+
+                NotificationCompat.Builder builder = new NotificationCompat.Builder(ConfirmActivity.this, "My Notification");
+                builder.setContentTitle("Order Completed");
+                builder.setContentText("Thank you for booking using our app.");
+                builder.setSmallIcon(R.drawable.tranquillogoround);
+                builder.setAutoCancel(true);
+                NotificationManagerCompat managerCompat = NotificationManagerCompat.from(ConfirmActivity.this);
+                managerCompat.notify(1, builder.build());
+
             }
         });
 
