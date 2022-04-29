@@ -3,8 +3,11 @@ package com.example.tranquiltrip;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -20,6 +23,7 @@ public class InvoiceActivity extends AppCompatActivity {
     private TextView FName, PNo, RType, Dte, TGuest, Price;
     private FirebaseAuth firebaseAuth;
     private FirebaseDatabase firebaseDatabase;
+    private Button back;
 
 
     @Override
@@ -36,6 +40,14 @@ public class InvoiceActivity extends AppCompatActivity {
         Dte = findViewById(R.id.tvDte);
         TGuest = findViewById(R.id.tvTguest);
         Price = findViewById(R.id.tvPrce);
+        back = findViewById(R.id.backbtntodashboard);
+
+        back.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(InvoiceActivity.this, SecondActivity.class));
+            }
+        });
 
         DatabaseReference databaseReference = firebaseDatabase.getReference("Booking Details").child(firebaseAuth.getUid());
 

@@ -254,7 +254,7 @@
                         android:textColor="#fff" />
 
                     <Button
-                        android:id="@+id/btnbacktodashboard"
+                        android:id="@+id/backbtntodashboard"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:background="@android:color/transparent" />

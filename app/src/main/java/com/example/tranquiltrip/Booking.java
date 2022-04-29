@@ -5,6 +5,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.ArrayAdapter;
+import android.widget.AutoCompleteTextView;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageButton;
@@ -13,6 +15,13 @@ public class Booking extends AppCompatActivity {
     EditText FullName, PhoneNo, RoomType, Date, Guest;
     Button Submit;
     ImageButton back;
+    String[] roomtype = {
+            "Single Bedroom",
+            "Double Bedroom",
+            "King Bedroom",
+            "Quad Bedroom",
+            "Family Bedroom",
+    };
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -34,6 +43,14 @@ public class Booking extends AppCompatActivity {
 
             }
         });
+
+        ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,
+                android.R.layout.simple_dropdown_item_1line, roomtype);
+        AutoCompleteTextView textView = (AutoCompleteTextView)
+                findViewById(R.id.etRoomType);
+        textView.setThreshold(1);
+        textView.setAdapter(adapter);
+
 
         Submit.setOnClickListener(new View.OnClickListener(){
             @Override
